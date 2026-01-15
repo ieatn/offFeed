@@ -1,0 +1,5 @@
+{
+  "name": "OffFeed",
+  "description": "A daily brief of trending topics from Twitter/X and Reddit, designed to keep you informed in under 5 minutes without the scroll.",
+  "requestFramePermissions": []
+}
